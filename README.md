@@ -1,1 +1,1 @@
-# zenn-connect
+# article-management
