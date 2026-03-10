@@ -22,7 +22,7 @@
 | # | タイトル | タイプ | ステータス |
 |---|---------|--------|----------|
 | ACC-001 | APS (Autodesk Platform Services) でACC APIを叩く最初の一歩 ― OAuth認証からプロジェクト一覧取得まで | チュートリアル | 💡 アイデア |
-| ACC-002 | GASでACCのフォルダ構成を一括作成する ― Data Management APIとスプレッドシート連携 | チュートリアル | 💡 アイデア |
+| ACC-002 | GASでACCのフォルダ構成を一括作成する ― Data Management APIとスプレッドシート連携 | チュートリアル | 👀 レビュー中 |
 | ACC-003 | GASでACCのユーザー管理を自動化する ― 招待・権限設定をスプレッドシートから一括実行 | チュートリアル | 💡 アイデア |
 | ACC-004 | ACCに格納されたRevitファイルをAPS Viewerで表示してみた ― Model Derivative API入門 | チュートリアル | 💡 アイデア |
 | ACC-005 | ACC Reviews APIでできること ― 承認ワークフローの取得・操作・自動化の可能性 | 解説 | 💡 アイデア |
