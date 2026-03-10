@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git remote:*)",
+      "Bash(git clone:*)",
+      "WebSearch",
+      "WebFetch(domain:aps.autodesk.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:spreadsheet.dev)",
+      "WebFetch(domain:deepwiki.com)",
+      "WebFetch(domain:www.autodesk.com)",
+      "WebFetch(domain:barbersmith.com)",
+      "WebFetch(domain:get-started.aps.autodesk.com)",
+      "WebFetch(domain:e-verse.com)",
+      "WebFetch(domain:fieldofviewblog.wordpress.com)"
+    ]
+  }
+}
