@@ -1,5 +1,5 @@
 ---
-title: "ACC Reviews APIでできること ― 承認ワークフローの取得・操作・自動化の可能性"
+title: "ACC Reviews APIでできること"
 emoji: "✅"
 type: "tech"
 topics: ["autodesk", "acc", "api", "bim", "construction"]
