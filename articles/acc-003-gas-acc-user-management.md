@@ -1,5 +1,5 @@
 ---
-title: "GASでACCのユーザー管理を自動化する ― 招待・権限設定をスプレッドシートから一括実行"
+title: "GASでACCのユーザー管理を自動化する"
 emoji: "👥"
 type: "tech"
 topics: ["autodesk", "acc", "gas", "api", "bim"]
