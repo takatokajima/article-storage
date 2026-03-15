@@ -1,5 +1,5 @@
 ---
-title: "ACC Cost Managementの基本的な使い方 ― 予算・契約・変更管理の全体像"
+title: "ACC Cost Managementの基本的な使い方"
 emoji: "💰"
 type: "tech"
 topics: ["autodesk", "acc", "api", "bim", "construction"]
