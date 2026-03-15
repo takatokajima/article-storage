@@ -3,7 +3,7 @@ title: "GASでACCのフォルダ構成を一括作成する ― Data Management 
 emoji: "📁"
 type: "tech"
 topics: ["autodesk", "acc", "gas", "api", "bim"]
-published: false
+published: true
 ---
 
 ## はじめに
