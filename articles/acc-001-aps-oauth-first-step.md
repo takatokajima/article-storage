@@ -1,5 +1,5 @@
 ---
-title: "APS (Autodesk Platform Services) でACC APIを叩く最初の一歩 ― OAuth認証からプロジェクト一覧取得まで"
+title: "APS (Autodesk Platform Services) でACC APIを叩く最初の一歩"
 emoji: "🔑"
 type: "tech"
 topics: ["autodesk", "acc", "gas", "api", "oauth"]
